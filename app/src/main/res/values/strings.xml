@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">androidintent</string>
+    <string name="home">HOME</string>
+    <string name="email">EMAIL</string>
+    <string name="call">CALL</string>
+    <string name="dial">DIAL</string>
+    <string name="sms">SMS</string>
+    <string name="mpesa">Mpesa</string>
+    <string name="share">Share</string>
+    <string name="camera">Camera</string>
+    <string name="login">LOGIN</string>
+</resources>
